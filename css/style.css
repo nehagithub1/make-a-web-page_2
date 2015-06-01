@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  max-width: 2000px;
+}
+
+.lesson {
+  padding: 5px;
+}
+
+h2 {
+  margin: 10px;
+}
+
+.concept {
+  margin: 10px;
+  color: black;
+}
+
+.concept-title {
+  font-size: 20px;
+  margin: 8px;
+  text-align: left;
+  color: #1E90FF;
+}
+
+.concept-description {
+  margin: 10px;
+}
